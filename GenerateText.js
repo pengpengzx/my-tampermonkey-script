@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  用来抓去页面table的row并生成自己想要的文本格式
-// @author       You
+// @author       pengpengzx
 // @match        需要启用的地址
 // @icon         https://www.google.com/s2/favicons?domain=backlog.com
 // @grant        none
